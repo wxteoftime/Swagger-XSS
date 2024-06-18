@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/ThiiagoEscobar/teste/main/Tempest_XSS.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/ThiiagoEscobar/teste/main/Tempest_XSS.yaml",
+            "name": "Foo"
+        }
+    ]
+}
