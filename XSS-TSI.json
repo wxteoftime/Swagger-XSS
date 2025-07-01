@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/wxteoftime/Swagger-XSS/refs/heads/main/XSS-TSI.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/wxteoftime/Swagger-XSS/refs/heads/main/XSS-TSI.yaml",
+            "name": "Foo"
+        }
+    ]
+}
