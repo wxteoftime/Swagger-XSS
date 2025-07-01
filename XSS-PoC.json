@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/wxteoftime/Swagger-XSS/main/XSS-PoC.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/wxteoftime/Swagger-XSS/main/XSS-PoC.yaml",
+            "name": "Foo"
+        }
+    ]
+}
